@@ -15,15 +15,15 @@
 
 ---
 
-## 🚀 About Me
+##About Me
 
-- 💻 Exploring Python, SQL, and Full-Stack Development
-- 📊 Interested in Data Analytics, Data Visualization, and Data-Driven Insights
-- 🤖 Learning Artificial Intelligence and Machine Learning
-- ⚡ Exploring Vibe Coding and AI-Powered Development
-- 🛠️ Building Practical Projects, Developer Tools, and Useful Applications
-- 📚 Improving My Programming, Problem-Solving, and Software Development Skills
-- 🌱 Continuously Learning and Experimenting with New Technologies
+1. Exploring Python, SQL, and Full-Stack Development
+2. Interested in Data Analytics, Data Visualization, and Data-Driven Insights
+3. Learning Artificial Intelligence and Machine Learning
+4. Exploring Vibe Coding and AI-Powered Development
+5. Building Practical Projects, Developer Tools, and Useful Applications
+6. Improving My Programming, Problem-Solving, and Software Development Skills
+7. Continuously Learning and Experimenting with New Technologies
 
 ## 🔭 Current Project
 
@@ -39,16 +39,15 @@ Developing a platform designed to simplify file conversion, compression, extract
 - 🗄️ SQL and Database Management
 - 📊 Data Analytics and Visualization
 - ⚛️ React and Tailwind CSS
-- ⚡ FastAPI and Backend Development
 - 🧠 Artificial Intelligence and Machine Learning
 - 🤖 AI-Assisted Development and Vibe Coding
 
 ## 🤝 Collaboration
 
-- 👯 Interested in collaborating on Python projects, AI applications, and open-source tools.
-- 💡 Exploring how AI tools can accelerate software development.
-- 🛠️ Interested in building useful applications and solving real-world problems.
-- 🌍 Open to learning from developers and contributing to meaningful projects.
+-  Interested in collaborating on Python projects, AI applications, and open-source tools.
+-  Exploring how AI tools can accelerate software development.
+-  Interested in building useful applications and solving real-world problems.
+-  Open to learning from developers and contributing to meaningful projects.
 
 ## 💬 Ask Me About
 
