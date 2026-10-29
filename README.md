@@ -16,7 +16,6 @@
 ---
 
 ##About Me
-
 1. Exploring Python, SQL, and Full-Stack Development
 2. Interested in Data Analytics, Data Visualization, and Data-Driven Insights
 3. Learning Artificial Intelligence and Machine Learning
